@@ -1,0 +1,11 @@
+[theme]
+# Force the dark command center aesthetic
+base="dark"
+
+# Change the default Streamlit pink accent to an Emergency Red
+primaryColor="#E74C3C"
+
+# Slightly darken the background to make the map pop
+backgroundColor="#0E1117"
+secondaryBackgroundColor="#262730"
+textColor="#FAFAFA"
